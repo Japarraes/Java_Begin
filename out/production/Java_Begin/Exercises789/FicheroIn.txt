@@ -1,0 +1,4 @@
+Ejercicio de BootCamp/Java_Basico.
+Ejercicios con ficheros.
+Copiar este fichero en otro.
+Utilizar InputStream y PrintStream.
